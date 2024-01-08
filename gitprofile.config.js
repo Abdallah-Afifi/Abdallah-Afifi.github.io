@@ -112,7 +112,7 @@ const config = {
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: true,
+    respectPrefersColorScheme: false,
 
     // Hide the ring in Profile picture
     hideAvatarRing: false,
